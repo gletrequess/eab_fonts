@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'EAB_17_02_01';
+    src: url('EAB_17_02_01-Regular.woff2') format('woff2'),
+        url('EAB_17_02_01-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EAB_16_08_25';
+    src: url('EAB_16_08_25-Regular.woff2') format('woff2'),
+        url('EAB_16_08_25-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
