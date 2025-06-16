@@ -16,3 +16,12 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Fedra Sans';
+    src: url('FedraSansStd-Book.woff2') format('woff2'),
+        url('FedraSansStd-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
